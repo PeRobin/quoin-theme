@@ -1,0 +1,47 @@
+[metadata]
+name = "Quoin Daylight"
+author = "Robin Pedersen <pedersen.robin@pm.me>"
+
+[colors]
+foreground = "#2a221a"
+background = "#f0ebe0"
+cursor_bg = "#8a5010"
+cursor_border = "#8a5010"
+cursor_fg = "#f0ebe0"
+selection_bg = "#d4c8b0"
+selection_fg = "#2a221a"
+scrollbar_thumb = "#9a8a7a"
+split = "#9a8a7a"
+
+ansi = [
+  "#e4ddd0",
+  "#a03a1e",
+  "#3a6a1e",
+  "#7a6010",
+  "#2a3e7a",
+  "#6a3e7a",
+  "#1a5a5a",
+  "#2a221a"
+]
+
+brights = [
+  "#9a8a7a",
+  "#d4694a",
+  "#8aae6a",
+  "#d4b84a",
+  "#7a8eba",
+  "#9e7eae",
+  "#6a9e9e",
+  "#c8d8e0"
+]
+
+[colors.tab_bar]
+background = "#e4ddd0"
+
+[colors.tab_bar.active_tab]
+bg_color = "#f0ebe0"
+fg_color = "#2a221a"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#e4ddd0"
+fg_color = "#8a7a6a"

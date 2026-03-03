@@ -1,0 +1,47 @@
+[metadata]
+name = "Quoin"
+author = "Robin Pedersen <pedersen.robin@pm.me>"
+
+[colors]
+foreground = "#d4c9b0"
+background = "#1a1612"
+cursor_bg = "#c4833a"
+cursor_border = "#c4833a"
+cursor_fg = "#1a1612"
+selection_bg = "#2e2820"
+selection_fg = "#d4c9b0"
+scrollbar_thumb = "#5a5248"
+split = "#5a5248"
+
+ansi = [
+  "#221e19",
+  "#c4593a",
+  "#7a9e5a",
+  "#c4a83a",
+  "#6a7eaa",
+  "#8e6e9e",
+  "#5a8e8e",
+  "#d4c9b0"
+]
+
+brights = [
+  "#5a5248",
+  "#d4694a",
+  "#8aae6a",
+  "#d4b84a",
+  "#7a8eba",
+  "#9e7eae",
+  "#6a9e9e",
+  "#c8d8e0"
+]
+
+[colors.tab_bar]
+background = "#221e19"
+
+[colors.tab_bar.active_tab]
+bg_color = "#1a1612"
+fg_color = "#d4c9b0"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#221e19"
+fg_color = "#7a6e5e"
